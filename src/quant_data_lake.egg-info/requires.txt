@@ -1,0 +1,10 @@
+polars
+duckdb
+pyarrow
+pydantic
+pandas-datareader
+typer
+rich
+
+[dev]
+pytest
